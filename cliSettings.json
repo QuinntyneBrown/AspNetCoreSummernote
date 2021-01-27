@@ -1,0 +1,9 @@
+{  
+  "Projects": "",
+  "DatabaseConnectionPropertyKey": "",
+  "DatabaseSettingsKey": "",
+  "SolutionName": "AspNetCoreSummernote.sln",
+  "RootNamespace": "AspNetCoreSummernote",
+  "SourceFolder": "src",
+  "TestFolder": "test"
+}
